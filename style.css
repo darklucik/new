@@ -1,0 +1,19 @@
+input {
+    display: block;
+}
+a {
+    text-decoration: none;
+    display: block;
+   
+}
+textarea {
+    resize: none;
+    height: 25px;
+    margin: 5px;
+}
+.sbm {
+    margin: 5px;
+}
+a {
+    margin: 5px;
+}
